@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hdony640
-- 🌱 I’m currently learning C language
+- 🌱 I’m currently learning C language at 42 network
 
 <!---
 hdony640/hdony640 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
